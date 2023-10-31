@@ -19,7 +19,7 @@
 
 - Trabalhei de setembro de 2021 até novembro de 2023 na Dimensa/Mobile2You e meus commits eram feitos no bitbucket.
 
-## Where have you been? Where have you been? Why does your github contain so few commits compared to other developers?
+## Where have you been? Why does your github contain so few commits compared to other developers?
 
 - I worked from September 2021 to November 2023 at Dimensa/Mobile2You and my commits were made on Bitbucket.
 
