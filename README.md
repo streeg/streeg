@@ -13,7 +13,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
-  <img src="assets/impact-light.svg" width="100%" alt="7+ banking apps built at Dimensa for client banks like Banco BV, Travelex, Dock and Bankly, with Pix in production · ~3 years leading teams: two of 6–7 developers at Dimensa and one of 7 at Ploomes · 12 CRM integrations · deploys moved from fragile to automated CI/CD on Kubernetes · search migrated from Sphinx to Elasticsearch and made dramatically faster · built the placements module that runs the firm's placement revenue">
+  <img src="assets/impact-light.svg" width="100%" alt="7+ banking apps built at Dimensa for client banks like Banco BV, Travelex, Dock and Bankly, with Pix in production · ~3 years leading teams: two teams of 7 people at Dimensa and one of 7 at Ploomes · 12 CRM integrations · deploys moved from fragile to automated CI/CD on Kubernetes · search migrated from Sphinx to Elasticsearch, with keyword search and highlighted matches · built the placements module that runs the firm's placement revenue">
 </picture>
 
 ## Experience
@@ -26,7 +26,7 @@
 <details>
 <summary><b>What I built at Haistack</b></summary>
 
-- Migrated platform search from Sphinx to **Elasticsearch** and made it **dramatically faster**, then added keyword search with highlighted matches across candidates, notes, emails and submissions.
+- Migrated platform search from Sphinx to **Elasticsearch**, then added keyword search with highlighted matches across candidates, notes, emails and submissions.
 - Built the **placements module** that runs the firm's placement revenue: commission splits, signing bonuses and deal notifications.
 - Hardened **security** with SMS two-factor authentication, an API key lifecycle, vendor permission rules and CSV formula-injection protection.
 - Shipped **LLM features** in the CRM, such as candidate recommendations and AI-drafted recruiter emails.
@@ -43,7 +43,7 @@
 <summary><b>What I built at Ploomes</b></summary>
 
 - Replaced manual, unsafe deploys that often broke and needed rollbacks with **automated CI/CD on Kubernetes** for the email and integrations services, and made them stable.
-- Consolidated the **email microservices into the monolith**, drastically cutting debugging time.
+- Consolidated the **email microservices into the monolith**, making the flow simpler to run and debug.
 - Built and maintained [**12 CRM integrations**](https://www.ploomes.com/produto/integracoes): RD Station, Neppo, Flowbiz, WhatsApp, Facebook Lead Ads, Mailchimp, Meetime, Omie, Outlook, Gmail, Google Calendar and Zenvia.
 - Wrote the **missing documentation** for the email and integrations domains and created operational routines for them.
 - Refactored legacy code for maintainability and security, and **informally led a team of 7 for four months**.
@@ -58,7 +58,7 @@
 <details>
 <summary><b>What I built at Dimensa</b></summary>
 
-- **Led two teams** of 6–7 developers for two and a half years.
+- **Led two teams** of 7 people for two and a half years.
 - At Dimensa (mobile2you), delivered **7+ white-label banking apps** for client banks such as [Banco BV](https://www.bv.com.br), [Travelex Bank](https://www.travelexbank.com.br), [Dock](https://dock.tech), [Bankly (Acesso)](https://bankly.com.br) and BBC Caminhoneiros, each tailored to the client's product and brand.
 - Worked on the **Dimensa app**, the rebuild of the white-label platform itself.
 - Implemented **Pix** payments and refunds in the white-label core, live in production across the apps built on it.
