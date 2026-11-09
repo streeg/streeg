@@ -5,15 +5,15 @@
   <img src="assets/header-light.svg" width="100%" alt="Guilherme Andreúce, Senior Full-Stack Developer. I build the business-critical parts of a product: search, revenue, payments, integrations and deploys, with AI in the loop.">
 </picture>
 
-<p align="center"><a href="https://www.linkedin.com/in/guilherme-andre%C3%BAce-monteiro-4b046814b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a><a href="mailto:guilhermeandreuce@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a><a href="https://t.me/guileb"><img src="assets/btn-telegram.svg" alt="Telegram"></a></p>
+<p align="center"><a href="https://streeg.github.io"><img src="assets/btn-website.svg" alt="Website"></a><a href="https://www.linkedin.com/in/guilherme-andre%C3%BAce-monteiro-4b046814b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a><a href="mailto:guilhermeandreuce@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a><a href="https://t.me/guileb"><img src="assets/btn-telegram.svg" alt="Telegram"></a></p>
 
-<p align="center"><sub><a href="#impact"><b>Impact</b></a> &nbsp;·&nbsp; <a href="#experience"><b>Experience</b></a> &nbsp;·&nbsp; <a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp; <a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp; <a href="#lets-talk"><b>Contact</b></a></sub></p>
+<p align="center"><sub><a href="#impact"><b>Impact</b></a> &nbsp;·&nbsp; <a href="#experience"><b>Experience</b></a> &nbsp;·&nbsp; <a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp; <a href="#security--research"><b>Security</b></a> &nbsp;·&nbsp; <a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp; <a href="#lets-talk"><b>Contact</b></a></sub></p>
 
 ## Impact
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
-  <img src="assets/impact-light.svg" width="100%" alt="7+ banking apps shipped with Pix in production · 2 teams of 6–7 developers led · 5 CRM integrations · deploys moved from fragile to automated CI/CD on Kubernetes · search migrated from Sphinx to Elasticsearch and made dramatically faster · built the placements module that runs the firm's placement revenue">
+  <img src="assets/impact-light.svg" width="100%" alt="7+ banking apps built at Dimensa for client banks like Banco BV, Travelex, Dock and Bankly, with Pix in production · ~3 years leading teams: two of 6–7 developers at Dimensa and one of 7 at Ploomes · 12 CRM integrations · deploys moved from fragile to automated CI/CD on Kubernetes · search migrated from Sphinx to Elasticsearch and made dramatically faster · built the placements module that runs the firm's placement revenue">
 </picture>
 
 ## Experience
@@ -44,9 +44,9 @@
 
 - Replaced manual, unsafe deploys that often broke and needed rollbacks with **automated CI/CD on Kubernetes** for the email and integrations services, and made them stable.
 - Consolidated the **email microservices into the monolith**, drastically cutting debugging time.
-- Built and maintained **CRM integrations** with RD Station, Neppo, Flowbiz, WhatsApp and Facebook Lead Ads.
+- Built and maintained [**12 CRM integrations**](https://www.ploomes.com/produto/integracoes): RD Station, Neppo, Flowbiz, WhatsApp, Facebook Lead Ads, Mailchimp, Meetime, Omie, Outlook, Gmail, Google Calendar and Zenvia.
 - Wrote the **missing documentation** for the email and integrations domains and created operational routines for them.
-- Refactored legacy code for maintainability and security, and **led the team informally for four months**.
+- Refactored legacy code for maintainability and security, and **informally led a team of 7 for four months**.
 
 </details>
 
@@ -59,10 +59,18 @@
 <summary><b>What I built at Dimensa</b></summary>
 
 - **Led two teams** of 6–7 developers for two and a half years.
-- Delivered **7+ white-label banking apps**, each tailored to the client's product and brand.
+- At Dimensa (mobile2you), delivered **7+ white-label banking apps** for client banks such as [Banco BV](https://www.bv.com.br), [Travelex Bank](https://www.travelexbank.com.br), [Dock](https://dock.tech), [Bankly (Acesso)](https://bankly.com.br) and BBC Caminhoneiros, each tailored to the client's product and brand.
+- Worked on the **Dimensa app**, the rebuild of the white-label platform itself.
 - Implemented **Pix** payments and refunds in the white-label core, live in production across the apps built on it.
 
 </details>
+
+## Education
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/edu-unb-dark.svg">
+  <img src="assets/edu-unb-light.svg" width="100%" alt="Education: Universidade de Brasília (UnB), Bachelor's degree in Computer Science.">
+</picture>
 
 ## Stack
 
@@ -73,12 +81,27 @@
   <img src="assets/stack-light.svg" width="100%" alt="Languages: TypeScript, JavaScript, Ruby, Python, Java, Lua. Frameworks: Rails, React, Node.js, Vue, Angular. Data and infrastructure: Elasticsearch, Redis, AWS, Docker, Kubernetes, Git, Linux.">
 </picture>
 
+## Security & research
+
+Security is not a last step for me. It runs through my research, my open-source work and what I ship to production.
+
+<p align="center"><a href="https://github.com/streeg/tcc"><img src="assets/project-thesis.svg" width="49%" alt="Thesis: how third-party libraries affect cryptographic API misuse reports in Android apps, using CryptoGuard, CogniCrypt and LibScout."></a> <a href="https://github.com/sepinf-inc/IPED"><img src="assets/project-iped.svg" width="49%" alt="IPED: the Federal Police's digital forensics tool. I wrote unit tests for its evidence parsers and regex search, and fixed the bugs they uncovered."></a></p>
+
+**Security I've shipped**
+
+- **SMS two-factor authentication** and an **API key lifecycle** for a recruiting CRM (Haistack)
+- **Vendor permission rules** and **CSV formula-injection protection** on exports (Haistack)
+- Legacy refactors **focused on security** in the email and integrations domains (Ploomes)
+- **Banking apps with Pix** payments and refunds for client banks (Dimensa)
+
 ## Projects
 
-<p align="center"><a href="https://github.com/streeg/Riposte"><img src="assets/project-riposte.svg" width="49%" alt="Riposte: a timing circle for every enemy hit in Clair Obscur: Expedition 33, plus a grace period that turns near-misses into reduced damage."></a> <a href="https://github.com/sepinf-inc/IPED"><img src="assets/project-iped.svg" width="49%" alt="IPED: the Brazilian Federal Police's digital forensics tool. I wrote tests for its tools and fixed the bugs they uncovered."></a></p>
+<p align="center"><a href="https://github.com/streeg/Riposte"><img src="assets/project-riposte.svg" width="49%" alt="Riposte: a timing circle for every enemy hit in Clair Obscur: Expedition 33, plus a grace period that turns near-misses into reduced damage."></a></p>
+
+**From the CS degree:** [Pipelined MIPS CPU](https://github.com/streeg/oac20191unb2) (VHDL) · [Compiler](https://github.com/streeg/guillex2) (C, Flex, Bison) · [Java Virtual Machine](https://github.com/Skalwalker/JVM) (C++, group of 5) · [Pseudo operating system](https://github.com/streeg/pseudo-os) (Python, group of 4)
 
 ## Let's talk
 
-Always up for a conversation about product engineering, search, integrations or AI-assisted development. Based in Brasília; studied at Universidade de Brasília (UnB).
+Always up for a conversation about product engineering, search, integrations or AI-assisted development. Based in Brasília, Brazil.
 
-<p align="center"><a href="https://www.linkedin.com/in/guilherme-andre%C3%BAce-monteiro-4b046814b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a><a href="mailto:guilhermeandreuce@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a><a href="https://t.me/guileb"><img src="assets/btn-telegram.svg" alt="Telegram"></a></p>
+<p align="center"><a href="https://streeg.github.io"><img src="assets/btn-website.svg" alt="Website"></a><a href="https://www.linkedin.com/in/guilherme-andre%C3%BAce-monteiro-4b046814b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a><a href="mailto:guilhermeandreuce@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a><a href="https://t.me/guileb"><img src="assets/btn-telegram.svg" alt="Telegram"></a></p>

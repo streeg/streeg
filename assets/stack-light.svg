@@ -15,10 +15,10 @@
   </style>
   <defs><clipPath id="clipsenlight"><rect width="1200" height="352" rx="22"/></clipPath></defs>
 
-  <rect x="0.5" y="0.5" width="1199" height="351" rx="22" fill="#0f172a" fill-opacity="0.025" stroke="#0f172a" stroke-opacity="0.12"/>
+  <rect x="0.5" y="0.5" width="1199" height="351" rx="22" fill="#18181b" fill-opacity="0.025" stroke="#18181b" stroke-opacity="0.12"/>
 
   <g transform="translate(0 40)">
-    <g class="desk"><text x="40" y="39.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="600" fill="#0f172a">Languages</text></g>
+    <g class="desk"><text x="40" y="39.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="600" fill="#18181b">Languages</text></g>
     <g class="desk" transform="translate(340 0)"><svg x="0" y="0" width="64" height="64" viewBox="0 0 256 256">
     
         <g transform="translate(0, 0)">
@@ -103,9 +103,9 @@
         </g>
         
   </svg></g>
-  </g><line x1="40" x2="1160" y1="124" y2="124" stroke="#0f172a" stroke-opacity="0.12"/>
+  </g><line x1="40" x2="1160" y1="124" y2="124" stroke="#18181b" stroke-opacity="0.12"/>
   <g transform="translate(0 144)">
-    <g class="desk"><text x="40" y="39.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="600" fill="#0f172a">Frameworks</text></g>
+    <g class="desk"><text x="40" y="39.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="600" fill="#18181b">Frameworks</text></g>
     <g class="desk" transform="translate(340 0)"><svg x="0" y="0" width="64" height="64" viewBox="0 0 256 256">
     
         <g transform="translate(0, 0)">
@@ -168,9 +168,9 @@
         </g>
         
   </svg></g>
-  </g><line x1="40" x2="1160" y1="228" y2="228" stroke="#0f172a" stroke-opacity="0.12"/>
+  </g><line x1="40" x2="1160" y1="228" y2="228" stroke="#18181b" stroke-opacity="0.12"/>
   <g transform="translate(0 248)">
-    <g class="desk"><text x="40" y="39.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="600" fill="#0f172a">Data &amp; infrastructure</text></g>
+    <g class="desk"><text x="40" y="39.0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="600" fill="#18181b">Data &amp; infrastructure</text></g>
     <g class="desk" transform="translate(340 0)"><svg x="0" y="0" width="64" height="64" viewBox="0 0 256 256">
     
         <g transform="translate(0, 0)">
