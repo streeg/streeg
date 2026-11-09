@@ -5,15 +5,15 @@
   <img src="assets/header-pt-light.svg" width="100%" alt="Guilherme Andreúce, Desenvolvedor Full-Stack Sênior. Construo as partes críticas de um produto: busca, receita, pagamentos, integrações e deploy, com IA no fluxo.">
 </picture>
 
-<p align="center"><a href="https://www.linkedin.com/in/guilherme-andre%C3%BAce-monteiro-4b046814b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a><a href="mailto:guilhermeandreuce@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a><a href="https://t.me/guileb"><img src="assets/btn-telegram.svg" alt="Telegram"></a></p>
+<p align="center"><a href="https://streeg.github.io"><img src="assets/btn-website.svg" alt="Website"></a><a href="https://www.linkedin.com/in/guilherme-andre%C3%BAce-monteiro-4b046814b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a><a href="mailto:guilhermeandreuce@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a><a href="https://t.me/guileb"><img src="assets/btn-telegram.svg" alt="Telegram"></a></p>
 
-<p align="center"><sub><a href="#impacto"><b>Impacto</b></a> &nbsp;·&nbsp; <a href="#experiência"><b>Experiência</b></a> &nbsp;·&nbsp; <a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp; <a href="#projetos"><b>Projetos</b></a> &nbsp;·&nbsp; <a href="#bora-conversar"><b>Contato</b></a></sub></p>
+<p align="center"><sub><a href="#impacto"><b>Impacto</b></a> &nbsp;·&nbsp; <a href="#experiência"><b>Experiência</b></a> &nbsp;·&nbsp; <a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp; <a href="#segurança-e-pesquisa"><b>Segurança</b></a> &nbsp;·&nbsp; <a href="#projetos"><b>Projetos</b></a> &nbsp;·&nbsp; <a href="#bora-conversar"><b>Contato</b></a></sub></p>
 
 ## Impacto
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/impact-pt-dark.svg">
-  <img src="assets/impact-pt-light.svg" width="100%" alt="7+ apps bancários com Pix em produção · 2 times de 6 a 7 devs liderados · 5 integrações de CRM · deploys de frágeis a automatizados com CI/CD no Kubernetes · busca migrada de Sphinx para Elasticsearch e absurdamente mais rápida · módulo de contratações que gere a receita do escritório">
+  <img src="assets/impact-pt-light.svg" width="100%" alt="7+ apps bancários feitos na Dimensa para bancos clientes como Banco BV, Travelex, Dock e Bankly, com Pix em produção · ~3 anos liderando times: dois de 6 a 7 devs na Dimensa e um de 7 pessoas na Ploomes · 12 integrações de CRM · deploys de frágeis a automatizados com CI/CD no Kubernetes · busca migrada de Sphinx para Elasticsearch e absurdamente mais rápida · módulo de contratações que gere a receita do escritório">
 </picture>
 
 ## Experiência
@@ -44,9 +44,9 @@
 
 - Troquei deploys manuais e inseguros, que quebravam e viviam de rollback, por **CI/CD automatizado no Kubernetes** para os serviços de e-mail e integrações, e deixei tudo estável.
 - Consolidei os **microsserviços de e-mail no monolito**, reduzindo drasticamente o tempo de depuração.
-- Construí e mantive **integrações do CRM** com RD Station, Neppo, Flowbiz, WhatsApp e Facebook Lead Ads.
+- Construí e mantive [**12 integrações do CRM**](https://www.ploomes.com/produto/integracoes): RD Station, Neppo, Flowbiz, WhatsApp, Facebook Lead Ads, Mailchimp, Meetime, Omie, Outlook, Gmail, Google Agenda e Zenvia.
 - Escrevi a **documentação que não existia** dos domínios de e-mail e integrações e criei rotinas operacionais para eles.
-- Refatorei código legado com foco em manutenibilidade e segurança, e **liderei o time informalmente por quatro meses**.
+- Refatorei código legado com foco em manutenibilidade e segurança, e **liderei informalmente um time de 7 pessoas por quatro meses**.
 
 </details>
 
@@ -59,10 +59,18 @@
 <summary><b>O que construí na Dimensa</b></summary>
 
 - **Liderei dois times** de 6 a 7 devs por dois anos e meio.
-- Entreguei **7+ apps bancários white-label**, cada um adaptado ao produto e à marca do cliente.
+- Pela Dimensa (mobile2you), entreguei **7+ apps bancários white-label** para bancos clientes como [Banco BV](https://www.bv.com.br), [Travelex Bank](https://www.travelexbank.com.br), [Dock](https://dock.tech), [Bankly (Acesso)](https://bankly.com.br) e BBC Caminhoneiros, cada um adaptado ao produto e à marca do cliente.
+- Trabalhei no **app Dimensa**, a reformulação da própria plataforma white-label.
 - Implementei **Pix** e devolução de Pix no núcleo white-label, em produção em todos os apps construídos sobre ele.
 
 </details>
+
+## Formação
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/edu-unb-pt-dark.svg">
+  <img src="assets/edu-unb-pt-light.svg" width="100%" alt="Formação: Universidade de Brasília (UnB), Bacharelado em Ciência da Computação.">
+</picture>
 
 ## Stack
 
@@ -73,12 +81,27 @@
   <img src="assets/stack-pt-light.svg" width="100%" alt="Linguagens: TypeScript, JavaScript, Ruby, Python, Java, Lua. Frameworks: Rails, React, Node.js, Vue, Angular. Dados e infraestrutura: Elasticsearch, Redis, AWS, Docker, Kubernetes, Git, Linux.">
 </picture>
 
+## Segurança e pesquisa
+
+Segurança não é a última etapa para mim. Ela atravessa minha pesquisa, meu trabalho em open source e o que eu coloco em produção.
+
+<p align="center"><a href="https://github.com/streeg/tcc"><img src="assets/project-thesis-pt.svg" width="49%" alt="TCC: como bibliotecas de terceiros afetam os relatórios de uso incorreto de APIs criptográficas em apps Android, com CryptoGuard, CogniCrypt e LibScout."></a> <a href="https://github.com/sepinf-inc/IPED"><img src="assets/project-iped-pt.svg" width="49%" alt="IPED: a ferramenta de perícia digital da Polícia Federal. Escrevi testes para os parsers de evidência e a busca por regex, e corrigi os bugs revelados."></a></p>
+
+**Segurança que eu entreguei**
+
+- **Autenticação em dois fatores por SMS** e **ciclo de vida de chaves de API** num CRM de recrutamento (Haistack)
+- **Regras de permissão para fornecedores** e **proteção contra injeção de fórmulas em CSV** nas exportações (Haistack)
+- Refatorações de código legado **com foco em segurança** nos domínios de e-mail e integrações (Ploomes)
+- **Apps bancários com Pix** e devolução de Pix para bancos clientes (Dimensa)
+
 ## Projetos
 
-<p align="center"><a href="https://github.com/streeg/Riposte"><img src="assets/project-riposte-pt.svg" width="49%" alt="Riposte: um círculo de timing para cada golpe inimigo em Clair Obscur: Expedition 33, e uma janela de tolerância que reduz o dano de quase-acertos."></a> <a href="https://github.com/sepinf-inc/IPED"><img src="assets/project-iped-pt.svg" width="49%" alt="IPED: a ferramenta de perícia digital da Polícia Federal. Escrevi testes para as ferramentas e corrigi os bugs que eles acharam."></a></p>
+<p align="center"><a href="https://github.com/streeg/Riposte"><img src="assets/project-riposte-pt.svg" width="49%" alt="Riposte: um círculo de timing para cada golpe inimigo em Clair Obscur: Expedition 33, e uma janela de tolerância que reduz o dano de quase-acertos."></a></p>
+
+**Da graduação:** [CPU MIPS com pipeline](https://github.com/streeg/oac20191unb2) (VHDL) · [Compilador](https://github.com/streeg/guillex2) (C, Flex, Bison) · [Máquina Virtual Java](https://github.com/Skalwalker/JVM) (C++, grupo de 5) · [Pseudo sistema operacional](https://github.com/streeg/pseudo-os) (Python, grupo de 4)
 
 ## Bora conversar
 
-Sempre aberto a uma conversa sobre engenharia de produto, busca, integrações ou desenvolvimento assistido por IA. Moro em Brasília e estudei na Universidade de Brasília (UnB).
+Sempre aberto a uma conversa sobre engenharia de produto, busca, integrações ou desenvolvimento assistido por IA. Moro em Brasília.
 
-<p align="center"><a href="https://www.linkedin.com/in/guilherme-andre%C3%BAce-monteiro-4b046814b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a><a href="mailto:guilhermeandreuce@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a><a href="https://t.me/guileb"><img src="assets/btn-telegram.svg" alt="Telegram"></a></p>
+<p align="center"><a href="https://streeg.github.io"><img src="assets/btn-website.svg" alt="Website"></a><a href="https://www.linkedin.com/in/guilherme-andre%C3%BAce-monteiro-4b046814b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a><a href="mailto:guilhermeandreuce@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a><a href="https://t.me/guileb"><img src="assets/btn-telegram.svg" alt="Telegram"></a></p>

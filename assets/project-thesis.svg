@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="Crypto-API misuse: My CS thesis: how third-party libraries affect crypto-API misuse reports in Android apps, using CryptoGuard, CogniCrypt and LibScout.">
+  <title>Crypto-API misuse: My CS thesis: how third-party libraries affect crypto-API misuse reports in Android apps, using CryptoGuard, CogniCrypt and LibScout.</title>
+  <style>
+    .mob { display: none; }
+    @media (max-width: 330px) { .desk { display: none; } .mob { display: inline; } }
+  </style>
+  <defs><linearGradient id="accpthesisen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#e11d48"/></linearGradient><clipPath id="clippthesisen"><rect width="600" height="300" rx="22"/></clipPath></defs>
+
+  <g clip-path="url(#clippthesisen)"><rect width="600" height="300" fill="#18181b"/><rect width="600" height="4" fill="url(#accpthesisen)"/></g>
+  <rect x="0.5" y="0.5" width="599" height="299" rx="22" fill="none" stroke="#3f3f46"/>
+  <g class="desk">
+    <text x="36" y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#fb7185">RESEARCH · SECURITY</text>
+    <text x="34" y="108" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="700" fill="#fafafa">Crypto-API misuse</text>
+    <text x="36" y="146" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#a1a1aa">My CS thesis: how third-party libraries affect crypto-API</text><text x="36" y="173" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#a1a1aa">misuse reports in Android apps, using CryptoGuard,</text><text x="36" y="200" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#a1a1aa">CogniCrypt and LibScout.</text>
+    <g transform="translate(36.0 234)"><rect width="125.4" height="32" rx="16" fill="#27272a" stroke="#3f3f46"/><text x="13" y="21.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="500" fill="#a1a1aa">Static analysis</text></g><g transform="translate(169.4 234)"><rect width="81.5" height="32" rx="16" fill="#27272a" stroke="#3f3f46"/><text x="13" y="21.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="500" fill="#a1a1aa">Android</text></g>
+    <text x="542" y="256" text-anchor="end" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#fafafa">View repo</text>
+    <path d="M550 256 l9 -9 M553 247 h6 v6" fill="none" stroke="#fafafa" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="mob">
+    <text x="36" y="112" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="55.5" font-weight="700" fill="#fafafa">Crypto-API misuse</text>
+    <text x="36" y="192" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="500" fill="#fb7185">Research · Security</text>
+  </g>
+</svg>

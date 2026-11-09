@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="Education: Universidade de Brasília (UnB), Bachelor's degree in Computer Science.">
+  <title>Education: Universidade de Brasília (UnB), Bachelor's degree in Computer Science.</title>
+  <style>
+    .glow1 { animation: drift1 20s ease-in-out infinite alternate; }
+    .glow2 { animation: drift2 24s ease-in-out infinite alternate; }
+    @keyframes drift1 { to { transform: translate(120px, 40px); } }
+    @keyframes drift2 { to { transform: translate(-140px, -30px); } }
+    .spin { animation: spin 60s linear infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .rise { animation: rise .8s cubic-bezier(.2,.7,.2,1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    .mob { display: none; }
+    @media (max-width: 600px) { .desk { display: none; } .mob { display: inline; } }
+  </style>
+  <defs><linearGradient id="acceendark" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f43f5e"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient><clipPath id="clipeendark"><rect width="1200" height="160" rx="22"/></clipPath></defs>
+
+  <g clip-path="url(#clipeendark)">
+    <rect width="1200" height="160" fill="#ffffff" fill-opacity="0.035"/>
+    <rect width="6" height="160" fill="url(#acceendark)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="159" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+  <g transform="translate(44 32)"><defs><clipPath id="lteendark"><rect width="96" height="96" rx="25.9"/></clipPath></defs><rect width="96" height="96" rx="25.9" fill="#ffffff"/><image href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8c3ZnDQogIA0KICANCiAgDQogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIg0KICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIg0KICANCiAgDQogICB2aWV3Qm94PSIwIDAgMTIwMCA2MDAiDQogICBoZWlnaHQ9IjYwMCINCiAgIHdpZHRoPSIxMjAwIg0KICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSINCiAgIGlkPSJzdmcyIg0KICAgdmVyc2lvbj0iMS4xIg0KICANCiAgPjxkZWZzDQogICAgIGlkPSJkZWZzNiI+PGNsaXBQYXRoDQogICAgICAgaWQ9ImNsaXBQYXRoMjAiDQogICAgICAgY2xpcFBhdGhVbml0cz0idXNlclNwYWNlT25Vc2UiPjxwYXRoDQogICAgICAgICBpZD0icGF0aDE4Ig0KICAgICAgICAgZD0ibSAwLDAgNTEwLDAgMCw0NjkuNzUgLTUxMCwwIHoiDQogICAgICAgICAvPjwvY2xpcFBhdGg+PC9kZWZzPjxnDQogICAgIGlkPSJnMzM4NSINCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS44OTI4NDQ1LDAsMCwxLjg5Mjg0NDUsLTE0LjA2NzI5NSwtMTMuNzY3MTcpIj48cGF0aA0KICAgICAgDQogICAgICAgZD0ibSA3LjQzMTg2NDMsMzI0LjI1NjUxIDYzMy45NjY0NTU3LDAgMCwtMzE2Ljk4MzIzIC02MzMuOTY2NDU1NywwIHoiDQogICAgICAgc3R5bGU9ImZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSINCiAgICAgICBpZD0icGF0aDIyIiAvPjxwYXRoDQogICAgICANCiAgICAgICBkPSJtIDU0My42Mzk1NiwxMjIuNTIwMjUgYyAtMzEuOTk5MzksMjMuMDY4MjggLTY2Ljk4MzI1LDQzLjA2MDEzIC0xMDQuNjgwNzUsNTkuMzY3OTYgLTE4LjYyODgyLDguMDU3NjIgLTM4LjcwNzY0LDEzLjYyOSAtNTkuODUzNzcsMTYuMjc0MjggLTE1LjAzNjc2LDEuODc4NjcgLTMwLjM0OTM0LDIuODI0MjEgLTQ1Ljg4MDYxLDIuODI0MjEgbCAwLDEyMy4yNjk4MSAzMDguMTczODksMCAwLC0yNzIuMzI2NDkgLTk3Ljc1MDA3LDcwLjYwMDE3IC0wLjAwOSwtMC4wMSINCiAgICAgICBzdHlsZT0iZmlsbDojMDA4OTQwO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lIg0KICAgICAgIGlkPSJwYXRoMzAiIC8+PHBhdGgNCiAgICAgIA0KICAgICAgIGQ9Im0gMTA1LjE4NjY2LDEyMi41MjAyNSBjIDMyLjAwOTU3LDIzLjA2ODI4IDY2Ljk4ODQ2LDQzLjA2MDEzIDEwNC42OTA5Myw1OS4zNjc5NiAxOC42MzI1NSw4LjA1NzYyIDM4LjcwMTQzLDEzLjYyOSA1OS44NTc1LDE2LjI3NDI4IDE1LjAyNjgxLDEuODc4NjcgMzAuMzM5NCwyLjgyNDIxIDQ1Ljg4MDYxLDIuODI0MjEgbCAwLDEyMy4yNjk4MSAtMzA4LjE4MzgzNTcsMCAwLC0yNzIuMzI2NDkgOTcuNzQ5OTQ1Nyw3MC42MDAxNyAwLjAwNSwtMC4wMSINCiAgICAgICBzdHlsZT0iZmlsbDojMDA4OTQwO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpub25lIg0KICAgICAgIGlkPSJwYXRoMzIiIC8+PHBhdGgNCiAgICAgIA0KICAgICAgIGQ9Im0gMzMzLjIyNDQzLDcuMjczMjggMCwxNzYuMDk5NzIgYyAxNC43ODgyNSwwIDI5LjM3ODk0LC0wLjkxMiA0My42OTEzMiwtMi42ODM4IGwgMCwwIGMgMTkuNDUyNiwtMi40MzY1NSAzNy45MTEyLC03LjU1NjkgNTUuMDQ0MDUsLTE0Ljk2MzQ1IDM2LjUxNzEyLC0xNS43OTM0MyA3MC4zNzUyOCwtMzUuMTQ0MTUgMTAxLjM2NTc1LC01Ny40ODkyOSBsIDAsMC4wMDUgMTA4LjA3Mjc3LC03OC4wNTAyMSAwLC0yMi45MTc5NCAtMzA4LjE3Mzg5LDAiDQogICAgICAgc3R5bGU9ImZpbGw6IzEzM2U3OTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSINCiAgICAgICBpZD0icGF0aDM0IiAvPjxwYXRoDQogICAgICANCiAgICAgICBkPSJtIDMxNS42MTU3LDcuMjczMjggMCwxNzYuMDk5NzIgYyAtMTQuODAzMTYsMCAtMjkuMzc3NywtMC45MTIgLTQzLjY5MTMyLC0yLjY4MzggbCAtMC4wMDUsMCBjIC0xOS40NTc1NywtMi40MzY1NSAtMzcuOTE5OSwtNy41NTY5IC01NS4wNTI3NSwtMTQuOTYzNDUgLTM2LjUwODQyLC0xNS43OTM0MyAtNzAuMzY2NTgsLTM1LjE0NDE1IC0xMDEuMzY2MjUsLTU3LjQ4OTI5IGwgMCwwLjAwNSAtMTA4LjA2ODU0NTcsLTc4LjA1MDIxIDAsLTIyLjkxNzk0IDMwOC4xODM4MzU3LDAiDQogICAgICAgc3R5bGU9ImZpbGw6IzEzM2U3OTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSINCiAgICAgICBpZD0icGF0aDM2IiAvPjwvZz48L3N2Zz4=" x="9.6" y="28.8" width="76.8" height="38.4"/><rect x="0.5" y="0.5" width="95" height="95" rx="25.9" fill="none" stroke="#ffffff" stroke-opacity="0.18"/></g>
+  <g class="desk"><g class="rise">
+    <text x="168" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#fb7185">EDUCATION</text>
+    <text x="168" y="100" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#f4f4f5">Universidade de Brasília (UnB)</text>
+    <text x="168" y="131" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#a1a1aa">Bachelor's degree in Computer Science</text>
+  </g></g>
+  <g class="mob">
+    <text x="168" y="85" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="60" font-weight="700" fill="#f4f4f5">Universidade de Brasília (UnB)</text>
+    <text x="168" y="135" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" fill="#a1a1aa">Bachelor's degree in Computer Science</text>
+  </g>
+</svg>
