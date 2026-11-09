@@ -62,7 +62,7 @@
 <summary><b>O que construí na Dimensa</b></summary>
 
 - **Liderei dois times** de 7 pessoas por dois anos e meio.
-- Pela Dimensa (mobile2you), entreguei **7+ apps bancários white-label** para bancos clientes como [Banco BV](https://www.bv.com.br), [Travelex Bank](https://www.travelexbank.com.br), [Dock](https://dock.tech), [Bankly (Acesso)](https://bankly.com.br) e BBC Caminhoneiros, cada um adaptado ao produto e à marca do cliente.
+- Pela Dimensa (mobile2you), entreguei **7+ apps bancários white-label** para bancos clientes como [Banco BV](https://www.bv.com.br), [Travelex Bank](https://www.travelexbank.com.br), [Dock](https://dock.tech), [Bankly (Acesso)](https://bankly.com.br) e [Banco BBC Digital](https://bancobbcdigital.com.br), cada um adaptado ao produto e à marca do cliente.
 - Trabalhei no **app Dimensa**, a reformulação da própria plataforma white-label.
 - Implementei **Pix** e devolução de Pix no núcleo white-label, em produção em todos os apps construídos sobre ele.
 

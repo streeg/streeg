@@ -62,7 +62,7 @@
 <summary><b>What I built at Dimensa</b></summary>
 
 - **Led two teams** of 7 people for two and a half years.
-- At Dimensa (mobile2you), delivered **7+ white-label banking apps** for client banks such as [Banco BV](https://www.bv.com.br), [Travelex Bank](https://www.travelexbank.com.br), [Dock](https://dock.tech), [Bankly (Acesso)](https://bankly.com.br) and BBC Caminhoneiros, each tailored to the client's product and brand.
+- At Dimensa (mobile2you), delivered **7+ white-label banking apps** for client banks such as [Banco BV](https://www.bv.com.br), [Travelex Bank](https://www.travelexbank.com.br), [Dock](https://dock.tech), [Bankly (Acesso)](https://bankly.com.br) and [Banco BBC Digital](https://bancobbcdigital.com.br), each tailored to the client's product and brand.
 - Worked on the **Dimensa app**, the rebuild of the white-label platform itself.
 - Implemented **Pix** payments and refunds in the white-label core, live in production across the apps built on it.
 
