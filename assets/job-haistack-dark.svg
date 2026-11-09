@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="274" viewBox="0 0 1200 274" role="img" aria-label="LateralLink · Haistack. Senior Full-Stack Developer, Oct 2026 – present  ·  Oct 2022 – Nov 2024. Rebuilt the search and the revenue engine of a legal-recruiting CRM, and brought AI agents into the team's workflow. Stack: Ruby on Rails, React, TypeScript, Elasticsearch, Sidekiq, AWS.">
+  <title>LateralLink · Haistack. Senior Full-Stack Developer, Oct 2026 – present  ·  Oct 2022 – Nov 2024. Rebuilt the search and the revenue engine of a legal-recruiting CRM, and brought AI agents into the team's workflow. Stack: Ruby on Rails, React, TypeScript, Elasticsearch, Sidekiq, AWS.</title>
+  <style>
+    .glow1 { animation: drift1 20s ease-in-out infinite alternate; }
+    .glow2 { animation: drift2 24s ease-in-out infinite alternate; }
+    @keyframes drift1 { to { transform: translate(120px, 40px); } }
+    @keyframes drift2 { to { transform: translate(-140px, -30px); } }
+    .spin { animation: spin 60s linear infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .rise { animation: rise .8s cubic-bezier(.2,.7,.2,1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    .mob { display: none; }
+    @media (max-width: 600px) { .desk { display: none; } .mob { display: inline; } }
+  </style>
+  <defs><linearGradient id="accchaistackendark" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/></linearGradient><clipPath id="clipchaistackendark"><rect width="1200" height="274" rx="22"/></clipPath></defs>
+
+  <g clip-path="url(#clipchaistackendark)">
+    <rect width="1200" height="274" fill="#ffffff" fill-opacity="0.035"/>
+    <rect width="6" height="274" fill="url(#accchaistackendark)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="273" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+  <g transform="translate(44 44)"><rect width="96" height="96" rx="26" fill="url(#accchaistackendark)"/>
+    <text x="48" y="64" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">H</text></g>
+  <g class="desk"><g class="rise">
+    <text x="168" y="78" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#f0f3f8">LateralLink · Haistack</text>
+    <g transform="translate(495.1 58)"><rect width="94.6" height="24" rx="12" fill="url(#accchaistackendark)"/><text x="11" y="16.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5" fill="#ffffff">CURRENT</text></g>
+    <text x="168" y="110" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#9aa4b2" xml:space="preserve"><tspan font-weight="600" fill="#a78bfa">Senior Full-Stack Developer</tspan>   Oct 2026 – present  ·  Oct 2022 – Nov 2024</text>
+    <text x="168" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" fill="#f0f3f8">Rebuilt the search and the revenue engine of a legal-recruiting CRM, and brought AI agents into the</text><text x="168" y="182" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" fill="#f0f3f8">team's workflow.</text>
+    <g transform="translate(168.0 212)"><rect x="0.5" y="0.5" width="132.0" height="33" rx="17.0" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#9aa4b2">Ruby on Rails</text></g><g transform="translate(311.0 212)"><rect x="0.5" y="0.5" width="72.2" height="33" rx="17.0" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#9aa4b2">React</text></g><g transform="translate(394.2 212)"><rect x="0.5" y="0.5" width="108.0" height="33" rx="17.0" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#9aa4b2">TypeScript</text></g><g transform="translate(513.2 212)"><rect x="0.5" y="0.5" width="127.3" height="33" rx="17.0" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#9aa4b2">Elasticsearch</text></g><g transform="translate(651.5 212)"><rect x="0.5" y="0.5" width="83.3" height="33" rx="17.0" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#9aa4b2">Sidekiq</text></g><g transform="translate(745.8 212)"><rect x="0.5" y="0.5" width="66.6" height="33" rx="17.0" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#9aa4b2">AWS</text></g>
+  </g></g>
+  <g class="mob">
+    <text x="168" y="106" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="700" fill="#f0f3f8">LateralLink · Haistack</text>
+    <text x="168" y="158" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="600" fill="#a78bfa">Senior Full-Stack Developer</text>
+    <text x="168" y="210" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" fill="#9aa4b2" xml:space="preserve">Oct 2026 – present  ·  Oct 2022 – Nov 2024</text>
+  </g>
+</svg>

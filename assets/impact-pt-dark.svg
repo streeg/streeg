@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="492" viewBox="0 0 1200 492" role="img" aria-label="7+ apps bancários: entregues sobre um núcleo white-label, com Pix e devolução de Pix em produção · 2 times liderados: de 6 a 7 devs cada por 2 anos e meio, mais 4 meses liderando o time na Ploomes · 5 integrações de CRM: RD Station, Neppo, Flowbiz, WhatsApp e Facebook Lead Ads, construídas e mantidas · Frágil → automatizado: deploys levados para CI/CD no Kubernetes: sem releases manuais, quebras e rollbacks · Sphinx → Elasticsearch: busca da plataforma reconstruída e absurdamente mais rápida, com destaque dos termos · Motor de receita: construí o módulo de contratações que gere a receita e as comissões do escritório">
+  <title>7+ apps bancários: entregues sobre um núcleo white-label, com Pix e devolução de Pix em produção · 2 times liderados: de 6 a 7 devs cada por 2 anos e meio, mais 4 meses liderando o time na Ploomes · 5 integrações de CRM: RD Station, Neppo, Flowbiz, WhatsApp e Facebook Lead Ads, construídas e mantidas · Frágil → automatizado: deploys levados para CI/CD no Kubernetes: sem releases manuais, quebras e rollbacks · Sphinx → Elasticsearch: busca da plataforma reconstruída e absurdamente mais rápida, com destaque dos termos · Motor de receita: construí o módulo de contratações que gere a receita e as comissões do escritório</title>
+  <style>
+    .glow1 { animation: drift1 20s ease-in-out infinite alternate; }
+    .glow2 { animation: drift2 24s ease-in-out infinite alternate; }
+    @keyframes drift1 { to { transform: translate(120px, 40px); } }
+    @keyframes drift2 { to { transform: translate(-140px, -30px); } }
+    .spin { animation: spin 60s linear infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .rise { animation: rise .8s cubic-bezier(.2,.7,.2,1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    .mob { display: none; }
+    @media (max-width: 600px) { .desk { display: none; } .mob { display: inline; } }
+  </style>
+  <defs><linearGradient id="acciptdark" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/></linearGradient></defs>
+
+  <g transform="translate(0.0 0)"><g class="rise" style="animation-delay:0.05s">
+    <rect x="0.5" y="0.5" width="385.7" height="235" rx="20" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.1"/>
+    <g transform="translate(28 28)"><rect width="52" height="52" rx="14.6" fill="url(#acciptdark)" fill-opacity="0.16"/><rect x="0.5" y="0.5" width="51" height="51" rx="14.6" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/><g transform="translate(11.4 11.4) scale(1.213)"><path d="M3 9.5 12 4l9 5.5M5 10v8M9.5 10v8M14.5 10v8M19 10v8M3 20h18" fill="none" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/></g></g>
+    <g class="desk">
+      <text x="28" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#f0f3f8">7+ apps bancários</text>
+      <text x="28" y="156" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">entregues sobre um núcleo</text><text x="28" y="183" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">white-label, com Pix e devolução de</text><text x="28" y="210" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">Pix em produção</text>
+    </g>
+    <g class="mob">
+      <text x="28" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" fill="#f0f3f8">7+ apps</text>
+    </g>
+  </g></g>
+  <g transform="translate(406.7 0)"><g class="rise" style="animation-delay:0.12s">
+    <rect x="0.5" y="0.5" width="385.7" height="235" rx="20" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.1"/>
+    <g transform="translate(28 28)"><rect width="52" height="52" rx="14.6" fill="url(#acciptdark)" fill-opacity="0.16"/><rect x="0.5" y="0.5" width="51" height="51" rx="14.6" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/><g transform="translate(11.4 11.4) scale(1.213)"><path d="M9 11.2a3.2 3.2 0 1 0 0-6.4 3.2 3.2 0 0 0 0 6.4ZM3 19.5c0-3.3 2.7-5.6 6-5.6s6 2.3 6 5.6M16.5 11.5a2.6 2.6 0 1 0 0-5.2M17 14.2c2.4.3 4 2.1 4 4.8" fill="none" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/></g></g>
+    <g class="desk">
+      <text x="28" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#f0f3f8">2 times liderados</text>
+      <text x="28" y="156" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">de 6 a 7 devs cada por 2 anos e</text><text x="28" y="183" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">meio, mais 4 meses liderando o time</text><text x="28" y="210" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">na Ploomes</text>
+    </g>
+    <g class="mob">
+      <text x="28" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" fill="#f0f3f8">2 times</text>
+    </g>
+  </g></g>
+  <g transform="translate(813.3 0)"><g class="rise" style="animation-delay:0.19s">
+    <rect x="0.5" y="0.5" width="385.7" height="235" rx="20" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.1"/>
+    <g transform="translate(28 28)"><rect width="52" height="52" rx="14.6" fill="url(#acciptdark)" fill-opacity="0.16"/><rect x="0.5" y="0.5" width="51" height="51" rx="14.6" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/><g transform="translate(11.4 11.4) scale(1.213)"><path d="M9 3v5M15 3v5M6.5 8h11v3.5a5.5 5.5 0 0 1-11 0ZM12 17v4" fill="none" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/></g></g>
+    <g class="desk">
+      <text x="28" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#f0f3f8">5 integrações de CRM</text>
+      <text x="28" y="156" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">RD Station, Neppo, Flowbiz,</text><text x="28" y="183" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">WhatsApp e Facebook Lead Ads,</text><text x="28" y="210" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">construídas e mantidas</text>
+    </g>
+    <g class="mob">
+      <text x="28" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48.0" font-weight="700" fill="#f0f3f8">5 integrações</text>
+    </g>
+  </g></g>
+  <g transform="translate(0.0 256)"><g class="rise" style="animation-delay:0.26s">
+    <rect x="0.5" y="0.5" width="385.7" height="235" rx="20" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.1"/>
+    <g transform="translate(28 28)"><rect width="52" height="52" rx="14.6" fill="url(#acciptdark)" fill-opacity="0.16"/><rect x="0.5" y="0.5" width="51" height="51" rx="14.6" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/><g transform="translate(11.4 11.4) scale(1.213)"><path d="M19.5 12a7.5 7.5 0 1 1-2.2-5.3M19.5 4v4.5H15" fill="none" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/></g></g>
+    <g class="desk">
+      <text x="28" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#f0f3f8">Frágil → automatizado</text>
+      <text x="28" y="156" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">deploys levados para CI/CD no</text><text x="28" y="183" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">Kubernetes: sem releases manuais,</text><text x="28" y="210" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">quebras e rollbacks</text>
+    </g>
+    <g class="mob">
+      <text x="28" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" fill="#f0f3f8">CI/CD</text>
+    </g>
+  </g></g>
+  <g transform="translate(406.7 256)"><g class="rise" style="animation-delay:0.33s">
+    <rect x="0.5" y="0.5" width="385.7" height="235" rx="20" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.1"/>
+    <g transform="translate(28 28)"><rect width="52" height="52" rx="14.6" fill="url(#acciptdark)" fill-opacity="0.16"/><rect x="0.5" y="0.5" width="51" height="51" rx="14.6" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/><g transform="translate(11.4 11.4) scale(1.213)"><path d="M10.8 17.6a6.8 6.8 0 1 0 0-13.6 6.8 6.8 0 0 0 0 13.6ZM15.8 15.8 21 21" fill="none" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/></g></g>
+    <g class="desk">
+      <text x="28" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="27.0" font-weight="700" fill="#f0f3f8">Sphinx → Elasticsearch</text>
+      <text x="28" y="156" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">busca da plataforma reconstruída e</text><text x="28" y="183" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">absurdamente mais rápida, com</text><text x="28" y="210" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">destaque dos termos</text>
+    </g>
+    <g class="mob">
+      <text x="28" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48.0" font-weight="700" fill="#f0f3f8">Elasticsearch</text>
+    </g>
+  </g></g>
+  <g transform="translate(813.3 256)"><g class="rise" style="animation-delay:0.40s">
+    <rect x="0.5" y="0.5" width="385.7" height="235" rx="20" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.1"/>
+    <g transform="translate(28 28)"><rect width="52" height="52" rx="14.6" fill="url(#acciptdark)" fill-opacity="0.16"/><rect x="0.5" y="0.5" width="51" height="51" rx="14.6" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/><g transform="translate(11.4 11.4) scale(1.213)"><path d="M3 17l6-6 4 4 8-8M15 7h6v6M3 21h18" fill="none" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/></g></g>
+    <g class="desk">
+      <text x="28" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#f0f3f8">Motor de receita</text>
+      <text x="28" y="156" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">construí o módulo de contratações</text><text x="28" y="183" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">que gere a receita e as comissões do</text><text x="28" y="210" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18.5" fill="#9aa4b2">escritório</text>
+    </g>
+    <g class="mob">
+      <text x="28" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" fill="#f0f3f8">Receita</text>
+    </g>
+  </g></g>
+</svg>
