@@ -13,7 +13,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/impact-pt-dark.svg">
-  <img src="assets/impact-pt-light.svg" width="100%" alt="7+ apps bancários feitos na Dimensa para bancos clientes como Banco BV, Travelex, Dock e Bankly, com Pix em produção · ~3 anos liderando times: dois de 6 a 7 devs na Dimensa e um de 7 pessoas na Ploomes · 12 integrações de CRM · deploys de frágeis a automatizados com CI/CD no Kubernetes · busca migrada de Sphinx para Elasticsearch e absurdamente mais rápida · módulo de contratações que gere a receita do escritório">
+  <img src="assets/impact-pt-light.svg" width="100%" alt="7+ apps bancários feitos na Dimensa para bancos clientes como Banco BV, Travelex, Dock e Bankly, com Pix em produção · ~3 anos liderando times: dois times de 7 pessoas na Dimensa e um de 7 pessoas na Ploomes · 12 integrações de CRM · deploys de frágeis a automatizados com CI/CD no Kubernetes · busca migrada de Sphinx para Elasticsearch, com busca por palavra-chave e destaque dos termos · módulo de contratações que gere a receita do escritório">
 </picture>
 
 ## Experiência
@@ -26,7 +26,7 @@
 <details>
 <summary><b>O que construí na Haistack</b></summary>
 
-- Migrei a busca da plataforma de Sphinx para **Elasticsearch** e a deixei **absurdamente mais rápida**; depois adicionei busca por palavra-chave, com os termos destacados, em candidatos, notas, e-mails e submissões.
+- Migrei a busca da plataforma de Sphinx para **Elasticsearch** e depois adicionei busca por palavra-chave, com os termos destacados, em candidatos, notas, e-mails e submissões.
 - Construí o **módulo de contratações** que gere a receita das contratações do escritório: divisão de comissões, bônus de assinatura e notificações de cada negociação.
 - Reforcei a **segurança** com autenticação em dois fatores por SMS, ciclo de vida de chaves de API, regras de permissão para fornecedores e proteção contra injeção de fórmulas em CSV.
 - Entreguei **funcionalidades com LLM** no CRM, como recomendação de candidatos e e-mails de recrutadores redigidos por IA.
@@ -43,7 +43,7 @@
 <summary><b>O que construí na Ploomes</b></summary>
 
 - Troquei deploys manuais e inseguros, que quebravam e viviam de rollback, por **CI/CD automatizado no Kubernetes** para os serviços de e-mail e integrações, e deixei tudo estável.
-- Consolidei os **microsserviços de e-mail no monolito**, reduzindo drasticamente o tempo de depuração.
+- Consolidei os **microsserviços de e-mail no monolito**, deixando o fluxo mais simples de operar e depurar.
 - Construí e mantive [**12 integrações do CRM**](https://www.ploomes.com/produto/integracoes): RD Station, Neppo, Flowbiz, WhatsApp, Facebook Lead Ads, Mailchimp, Meetime, Omie, Outlook, Gmail, Google Agenda e Zenvia.
 - Escrevi a **documentação que não existia** dos domínios de e-mail e integrações e criei rotinas operacionais para eles.
 - Refatorei código legado com foco em manutenibilidade e segurança, e **liderei informalmente um time de 7 pessoas por quatro meses**.
@@ -58,7 +58,7 @@
 <details>
 <summary><b>O que construí na Dimensa</b></summary>
 
-- **Liderei dois times** de 6 a 7 devs por dois anos e meio.
+- **Liderei dois times** de 7 pessoas por dois anos e meio.
 - Pela Dimensa (mobile2you), entreguei **7+ apps bancários white-label** para bancos clientes como [Banco BV](https://www.bv.com.br), [Travelex Bank](https://www.travelexbank.com.br), [Dock](https://dock.tech), [Bankly (Acesso)](https://bankly.com.br) e BBC Caminhoneiros, cada um adaptado ao produto e à marca do cliente.
 - Trabalhei no **app Dimensa**, a reformulação da própria plataforma white-label.
 - Implementei **Pix** e devolução de Pix no núcleo white-label, em produção em todos os apps construídos sobre ele.
