@@ -13,7 +13,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
-  <img src="assets/impact-light.svg" width="100%" alt="7+ banking apps built at Dimensa for client banks like Banco BV, Travelex, Dock and Bankly, with Pix in production · ~3 years leading teams: two teams of 7 people at Dimensa and one of 7 at Ploomes · 12 CRM integrations · deploys moved from fragile to automated CI/CD on Kubernetes · search migrated from Sphinx to Elasticsearch, with keyword search and highlighted matches · built the placements module that runs the firm's placement revenue">
+  <img src="assets/impact-light.svg" width="100%" alt="7+ banking apps built at Dimensa for client banks like Banco BV, Travelex, Dock and Bankly, with Pix in production · ~3 years leading teams: two teams of 7 people at Dimensa and one of 7 at Ploomes · 13 CRM integrations · deploys moved from fragile to automated CI/CD on Kubernetes · search migrated from Sphinx to Elasticsearch, with keyword search and highlighted matches · built the placements module that runs the firm's placement revenue">
 </picture>
 
 ## Experience
@@ -44,8 +44,11 @@
 
 - Replaced manual, unsafe deploys that often broke and needed rollbacks with **automated CI/CD on Kubernetes** for the email and integrations services, and made them stable.
 - Consolidated the **email microservices into the monolith**, making the flow simpler to run and debug.
-- Built and maintained [**12 CRM integrations**](https://www.ploomes.com/produto/integracoes): RD Station, Neppo, Flowbiz, WhatsApp, Facebook Lead Ads, Mailchimp, Meetime, Omie, Outlook, Gmail, Google Calendar and Zenvia.
+- Replaced Datadog with **OpenTelemetry** for logging and telemetry across the email services.
+- Built and maintained [**13 CRM integrations**](https://www.ploomes.com/produto/integracoes): RD Station, ActiveCampaign, Neppo, Flowbiz, WhatsApp, Facebook Lead Ads, Mailchimp, Meetime, Omie, Outlook, Gmail, Google Calendar and Zenvia.
 - Wrote the **missing documentation** for the email and integrations domains and created operational routines for them.
+- Hardened the integrations: **OAuth** flows, **URL sanitization**, permission checks and a **secrets-rotation runbook**.
+- Brought **AI-assisted development** into my workflow in early 2026, with context files for each service and an integrations knowledge base for coding agents.
 - Refactored legacy code for maintainability and security, and **informally led a team of 7 for four months**.
 
 </details>
@@ -83,22 +86,15 @@
 
 ## Security & research
 
-Security is not a last step for me. It runs through my research, my open-source work and what I ship to production.
+Security runs through my work: from research on cryptographic API misuse to tests for a forensic tool used by the Federal Police.
 
 <p align="center"><a href="https://github.com/streeg/tcc"><img src="assets/project-thesis.svg" width="49%" alt="Thesis: how third-party libraries affect cryptographic API misuse reports in Android apps, using CryptoGuard, CogniCrypt and LibScout."></a> <a href="https://github.com/sepinf-inc/IPED"><img src="assets/project-iped.svg" width="49%" alt="IPED: the Federal Police's digital forensics tool. I wrote unit tests for its evidence parsers and regex search, and fixed the bugs they uncovered."></a></p>
-
-**Security I've shipped**
-
-- **SMS two-factor authentication** and an **API key lifecycle** for a recruiting CRM (Haistack)
-- **Vendor permission rules** and **CSV formula-injection protection** on exports (Haistack)
-- Legacy refactors **focused on security** in the email and integrations domains (Ploomes)
-- **Banking apps with Pix** payments and refunds for client banks (Dimensa)
 
 ## Projects
 
 <p align="center"><a href="https://github.com/streeg/Riposte"><img src="assets/project-riposte.svg" width="49%" alt="Riposte: a timing circle for every enemy hit in Clair Obscur: Expedition 33, plus a grace period that turns near-misses into reduced damage."></a></p>
 
-**From the CS degree:** [Pipelined MIPS CPU](https://github.com/streeg/oac20191unb2) (VHDL) · [Compiler](https://github.com/streeg/guillex2) (C, Flex, Bison) · [Java Virtual Machine](https://github.com/Skalwalker/JVM) (C++, group of 5) · [Pseudo operating system](https://github.com/streeg/pseudo-os) (Python, group of 4)
+**From the CS degree:** [Pipelined MIPS CPU](https://github.com/streeg/oac20191unb2) (VHDL) · [Compiler](https://github.com/streeg/guillex2) (C, Flex, Bison) · [Java Virtual Machine](https://github.com/Skalwalker/JVM) (C++) · [Pseudo operating system](https://github.com/streeg/pseudo-os) (Python)
 
 ## Let's talk
 

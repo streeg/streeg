@@ -13,7 +13,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/impact-pt-dark.svg">
-  <img src="assets/impact-pt-light.svg" width="100%" alt="7+ apps bancários feitos na Dimensa para bancos clientes como Banco BV, Travelex, Dock e Bankly, com Pix em produção · ~3 anos liderando times: dois times de 7 pessoas na Dimensa e um de 7 pessoas na Ploomes · 12 integrações de CRM · deploys de frágeis a automatizados com CI/CD no Kubernetes · busca migrada de Sphinx para Elasticsearch, com busca por palavra-chave e destaque dos termos · módulo de contratações que gere a receita do escritório">
+  <img src="assets/impact-pt-light.svg" width="100%" alt="7+ apps bancários feitos na Dimensa para bancos clientes como Banco BV, Travelex, Dock e Bankly, com Pix em produção · ~3 anos liderando times: dois times de 7 pessoas na Dimensa e um de 7 pessoas na Ploomes · 13 integrações de CRM · deploys de frágeis a automatizados com CI/CD no Kubernetes · busca migrada de Sphinx para Elasticsearch, com busca por palavra-chave e destaque dos termos · módulo de contratações que gere a receita do escritório">
 </picture>
 
 ## Experiência
@@ -44,8 +44,11 @@
 
 - Troquei deploys manuais e inseguros, que quebravam e viviam de rollback, por **CI/CD automatizado no Kubernetes** para os serviços de e-mail e integrações, e deixei tudo estável.
 - Consolidei os **microsserviços de e-mail no monolito**, deixando o fluxo mais simples de operar e depurar.
-- Construí e mantive [**12 integrações do CRM**](https://www.ploomes.com/produto/integracoes): RD Station, Neppo, Flowbiz, WhatsApp, Facebook Lead Ads, Mailchimp, Meetime, Omie, Outlook, Gmail, Google Agenda e Zenvia.
+- Troquei o Datadog por **OpenTelemetry** nos logs e na telemetria dos serviços de e-mail.
+- Construí e mantive [**13 integrações do CRM**](https://www.ploomes.com/produto/integracoes): RD Station, ActiveCampaign, Neppo, Flowbiz, WhatsApp, Facebook Lead Ads, Mailchimp, Meetime, Omie, Outlook, Gmail, Google Agenda e Zenvia.
 - Escrevi a **documentação que não existia** dos domínios de e-mail e integrações e criei rotinas operacionais para eles.
+- Reforcei a segurança das integrações: fluxos **OAuth**, **sanitização de URLs**, checagens de permissão e um **runbook de rotação de segredos**.
+- Trouxe o **desenvolvimento assistido por IA** para o meu fluxo no início de 2026, com arquivos de contexto por serviço e uma base de conhecimento de integrações para agentes de código.
 - Refatorei código legado com foco em manutenibilidade e segurança, e **liderei informalmente um time de 7 pessoas por quatro meses**.
 
 </details>
@@ -83,22 +86,15 @@
 
 ## Segurança e pesquisa
 
-Segurança não é a última etapa para mim. Ela atravessa minha pesquisa, meu trabalho em open source e o que eu coloco em produção.
+Segurança atravessa meu trabalho: da pesquisa sobre uso incorreto de APIs criptográficas aos testes de uma ferramenta de perícia da Polícia Federal.
 
 <p align="center"><a href="https://github.com/streeg/tcc"><img src="assets/project-thesis-pt.svg" width="49%" alt="TCC: como bibliotecas de terceiros afetam os relatórios de uso incorreto de APIs criptográficas em apps Android, com CryptoGuard, CogniCrypt e LibScout."></a> <a href="https://github.com/sepinf-inc/IPED"><img src="assets/project-iped-pt.svg" width="49%" alt="IPED: a ferramenta de perícia digital da Polícia Federal. Escrevi testes para os parsers de evidência e a busca por regex, e corrigi os bugs revelados."></a></p>
-
-**Segurança que eu entreguei**
-
-- **Autenticação em dois fatores por SMS** e **ciclo de vida de chaves de API** num CRM de recrutamento (Haistack)
-- **Regras de permissão para fornecedores** e **proteção contra injeção de fórmulas em CSV** nas exportações (Haistack)
-- Refatorações de código legado **com foco em segurança** nos domínios de e-mail e integrações (Ploomes)
-- **Apps bancários com Pix** e devolução de Pix para bancos clientes (Dimensa)
 
 ## Projetos
 
 <p align="center"><a href="https://github.com/streeg/Riposte"><img src="assets/project-riposte-pt.svg" width="49%" alt="Riposte: um círculo de timing para cada golpe inimigo em Clair Obscur: Expedition 33, e uma janela de tolerância que reduz o dano de quase-acertos."></a></p>
 
-**Da graduação:** [CPU MIPS com pipeline](https://github.com/streeg/oac20191unb2) (VHDL) · [Compilador](https://github.com/streeg/guillex2) (C, Flex, Bison) · [Máquina Virtual Java](https://github.com/Skalwalker/JVM) (C++, grupo de 5) · [Pseudo sistema operacional](https://github.com/streeg/pseudo-os) (Python, grupo de 4)
+**Da graduação:** [CPU MIPS com pipeline](https://github.com/streeg/oac20191unb2) (VHDL) · [Compilador](https://github.com/streeg/guillex2) (C, Flex, Bison) · [Máquina Virtual Java](https://github.com/Skalwalker/JVM) (C++) · [Pseudo sistema operacional](https://github.com/streeg/pseudo-os) (Python)
 
 ## Bora conversar
 
