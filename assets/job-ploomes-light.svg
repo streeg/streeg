@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="274" viewBox="0 0 1200 274" role="img" aria-label="Ploomes. Senior Full-Stack Developer, Nov 2024 – Oct 2026. Turned fragile deploys and undocumented integrations into an automated, stable and documented platform. Stack: Kubernetes, CI/CD, Email, Integrations, Monolith.">
+  <title>Ploomes. Senior Full-Stack Developer, Nov 2024 – Oct 2026. Turned fragile deploys and undocumented integrations into an automated, stable and documented platform. Stack: Kubernetes, CI/CD, Email, Integrations, Monolith.</title>
+  <style>
+    .glow1 { animation: drift1 20s ease-in-out infinite alternate; }
+    .glow2 { animation: drift2 24s ease-in-out infinite alternate; }
+    @keyframes drift1 { to { transform: translate(120px, 40px); } }
+    @keyframes drift2 { to { transform: translate(-140px, -30px); } }
+    .spin { animation: spin 60s linear infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .rise { animation: rise .8s cubic-bezier(.2,.7,.2,1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    .mob { display: none; }
+    @media (max-width: 600px) { .desk { display: none; } .mob { display: inline; } }
+  </style>
+  <defs><linearGradient id="acccploomesenlight" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/></linearGradient><clipPath id="clipcploomesenlight"><rect width="1200" height="274" rx="22"/></clipPath></defs>
+
+  <g clip-path="url(#clipcploomesenlight)">
+    <rect width="1200" height="274" fill="#0f172a" fill-opacity="0.025"/>
+    <rect width="6" height="274" fill="url(#acccploomesenlight)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="273" rx="22" fill="none" stroke="#0f172a" stroke-opacity="0.12"/>
+  <g transform="translate(44 44)"><rect width="96" height="96" rx="26" fill="url(#acccploomesenlight)"/>
+    <text x="48" y="64" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">P</text></g>
+  <g class="desk"><g class="rise">
+    <text x="168" y="78" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">Ploomes</text>
+    
+    <text x="168" y="110" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#475569" xml:space="preserve"><tspan font-weight="600" fill="#6d28d9">Senior Full-Stack Developer</tspan>   Nov 2024 – Oct 2026</text>
+    <text x="168" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" fill="#0f172a">Turned fragile deploys and undocumented integrations into an automated, stable and documented</text><text x="168" y="182" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" fill="#0f172a">platform.</text>
+    <g transform="translate(168.0 212)"><rect x="0.5" y="0.5" width="113.8" height="33" rx="17.0" fill="#0f172a" fill-opacity="0.035" stroke="#0f172a" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#475569">Kubernetes</text></g><g transform="translate(292.8 212)"><rect x="0.5" y="0.5" width="73.9" height="33" rx="17.0" fill="#0f172a" fill-opacity="0.035" stroke="#0f172a" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#475569">CI/CD</text></g><g transform="translate(377.7 212)"><rect x="0.5" y="0.5" width="70.2" height="33" rx="17.0" fill="#0f172a" fill-opacity="0.035" stroke="#0f172a" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#475569">Email</text></g><g transform="translate(458.9 212)"><rect x="0.5" y="0.5" width="116.6" height="33" rx="17.0" fill="#0f172a" fill-opacity="0.035" stroke="#0f172a" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#475569">Integrations</text></g><g transform="translate(586.6 212)"><rect x="0.5" y="0.5" width="95.7" height="33" rx="17.0" fill="#0f172a" fill-opacity="0.035" stroke="#0f172a" stroke-opacity="0.16"/><text x="15" y="22.9" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="500" fill="#475569">Monolith</text></g>
+  </g></g>
+  <g class="mob">
+    <text x="168" y="106" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="700" fill="#0f172a">Ploomes</text>
+    <text x="168" y="158" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="600" fill="#6d28d9">Senior Full-Stack Developer</text>
+    <text x="168" y="210" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" fill="#475569" xml:space="preserve">Nov 2024 – Oct 2026</text>
+  </g>
+</svg>
