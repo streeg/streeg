@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-pt-dark.svg">
-  <img src="assets/header-pt-light.svg" width="100%" alt="Guilherme Andreúce, Desenvolvedor Full-Stack Sênior. Construo as partes críticas de um produto: busca, receita, pagamentos, integrações e deploy, com IA no fluxo.">
+  <img src="assets/header-pt-light.svg" width="100%" alt="Guilherme Andreúce, Desenvolvedor Full-Stack. Construo as partes críticas de um produto: busca, receita, pagamentos, integrações e deploy, com IA no fluxo.">
 </picture>
 
 <p align="center"><a href="https://streeg.github.io"><img src="assets/btn-website.svg" alt="Website"></a><a href="https://www.linkedin.com/in/guilherme-andre%C3%BAce-monteiro-4b046814b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a><a href="mailto:guilhermeandreuce@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a><a href="https://t.me/guileb"><img src="assets/btn-telegram.svg" alt="Telegram"></a></p>
@@ -77,7 +77,7 @@
 
 ## Stack
 
-**Agnóstico a linguagem.** Escolho a ferramenta pelo problema, e não o contrário, e fico produtivo rápido em stacks novas.
+Escolho a ferramenta pelo problema, e não o contrário, e fico produtivo rápido em stacks novas.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-pt-dark.svg">
