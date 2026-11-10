@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Guilherme Andreúce, Senior Full-Stack Developer. I build the business-critical parts of a product: search, revenue, payments, integrations and deploys, with AI in the loop.">
+  <img src="assets/header-light.svg" width="100%" alt="Guilherme Andreúce, Full-Stack Developer. I build the business-critical parts of a product: search, revenue, payments, integrations and deploys, with AI in the loop.">
 </picture>
 
 <p align="center"><a href="https://streeg.github.io"><img src="assets/btn-website.svg" alt="Website"></a><a href="https://www.linkedin.com/in/guilherme-andre%C3%BAce-monteiro-4b046814b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a><a href="mailto:guilhermeandreuce@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a><a href="https://t.me/guileb"><img src="assets/btn-telegram.svg" alt="Telegram"></a></p>
@@ -77,7 +77,7 @@
 
 ## Stack
 
-**Language-agnostic.** I pick the tool for the problem, not the other way around, and ramp up fast on new stacks.
+I pick the tool for the problem, not the other way around, and ramp up fast on new stacks.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
